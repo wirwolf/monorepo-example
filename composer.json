@@ -1,0 +1,16 @@
+{
+    "name": "monorepo/mono_kernel",
+    "type": "librery",
+    "description": "",
+    "license": "MIT",
+    "require": {
+        "monorepo/pkg1": "*",
+        "monorepo/pkg1": "2"
+    },
+    "config": {
+        "monorepo" : {
+            "monorepo/pkg1": "packages/pkg1",
+            "monorepo/pkg2": "packages/pkg2"
+        }
+    }
+}

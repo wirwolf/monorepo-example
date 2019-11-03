@@ -1,0 +1,10 @@
+{
+    "name": "monorepo/pkg1",
+    "type": "lib",
+    "description": "",
+    "authors": [
+    ],
+    "require": {
+        "monolog/monolog": "2.0.*"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "monorepo/pkg2",
+    "type": "lib",
+    "description": "",
+    "authors": [
+    ],
+    "require": {
+        "symfony/asset": "4.3.*"
+    }
+}
